@@ -16,6 +16,8 @@ DB_PORT=5432
 DB_USER=postgres
 DB_PASS=yourpassword
 DB_NAME=yourdbname
+
+SERVER=yourserverport
 ```
 
 2. Установите зависимости
